@@ -1,0 +1,11 @@
+Key                  Value
+---                  -----
+token                hvs.CAESIJN-WtCq00gHjBNkLFIWIj7yJ1cRSXQ8GiDnB_tE04ejGh4KHGh2cy5qUlUxWUlGVGZPdXNlbFpUdnljTG1nTHc
+token_accessor       kjWmvu1MHrdEFRxEfOksvQzq
+token_duration       768h
+token_renewable      true
+token_policies       ["default" "exampledb-pg-policy"]
+identity_policies    []
+policies             ["default" "exampledb-pg-policy"]
+
+
